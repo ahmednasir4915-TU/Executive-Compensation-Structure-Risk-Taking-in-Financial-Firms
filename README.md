@@ -1,0 +1,2 @@
+# Executive-Compensation-Structure-Risk-Taking-in-Financial-Firms
+A research presentation examining how executive pay structures (salary, bonuses, stock options, restricted stock) influenced excessive risk-taking before and after the 2008 financial crisis, with policy recommendations grounded in agency theory and moral hazard concepts.
